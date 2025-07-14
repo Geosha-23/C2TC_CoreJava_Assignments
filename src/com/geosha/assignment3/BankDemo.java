@@ -3,8 +3,9 @@ package com.geosha.assignment3;
 public class BankDemo {
 
 	public static void main(String[] args) {
-		Bank bank1 = new Bank();
-        Bank bank2 = new Bank();
+		 Bank bank1 = new Bank();
+	        Bank bank2 = new Bank();
+
 
         System.out.println("Total Accounts: " + Bank.getTotalAccounts());
 
