@@ -16,9 +16,6 @@ public final class Transaction {
         System.out.println("Transaction complete. Current balance: " + account.getBalance());
     }
 
-    public double getTransactionFee() {
-        return transactionFee;
-    }
-
+    
 
 }
